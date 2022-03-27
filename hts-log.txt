@@ -1,0 +1,34 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 27 Mar 2022 09:17:21 at https://famee.miami/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://famee.miami/ -O1 "C:\My Web Sites\new fame" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:17:57	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://famee.miami/tenor.gif (from https://famee.miami/)
+09:17:58	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://famee.miami/a.css (from https://famee.miami/)
+09:18:57	Error: 	"Not Found" (404) at link https://famee.miami/img/calendar/january.jpg (from https://famee.miami/a.css)
+09:18:57	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://famee.miami/img/calendar/february.jpg (from https://famee.miami/a.css)
+09:18:57	Error: 	"Not Found" (404) at link https://famee.miami/img/calendar/march.jpg (from https://famee.miami/a.css)
+09:18:57	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://famee.miami/img/calendar/april.jpg (from https://famee.miami/a.css)
+09:18:57	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://famee.miami/img/calendar/may.jpg (from https://famee.miami/a.css)
+09:18:57	Error: 	"Not Found" (404) at link https://famee.miami/img/calendar/june.jpg (from https://famee.miami/a.css)
+09:18:57	Error: 	"Not Found" (404) at link https://famee.miami/img/calendar/july.jpg (from https://famee.miami/a.css)
+09:18:57	Error: 	"Not Found" (404) at link https://famee.miami/img/calendar/august.jpg (from https://famee.miami/a.css)
+09:18:57	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://famee.miami/img/calendar/september.jpg (from https://famee.miami/a.css)
+09:18:59	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://famee.miami/img/calendar/october.jpg (from https://famee.miami/a.css)
+09:19:00	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://famee.miami/img/calendar/november.jpg (from https://famee.miami/a.css)
+09:19:00	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://famee.miami/img/calendar/december.jpg (from https://famee.miami/a.css)
+09:19:03	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://famee.miami/img/calendar/february.jpg (from https://famee.miami/a.css)
+09:19:04	Error: 	"Not Found" (404) at link https://famee.miami/img/calendar/april.jpg (from https://famee.miami/a.css)
+09:19:04	Error: 	"Not Found" (404) at link https://famee.miami/img/calendar/may.jpg (from https://famee.miami/a.css)
+09:19:04	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://famee.miami/img/calendar/september.jpg (from https://famee.miami/a.css)
+09:19:04	Error: 	"Not Found" (404) at link https://famee.miami/img/calendar/october.jpg (from https://famee.miami/a.css)
+09:19:04	Error: 	"Not Found" (404) at link https://famee.miami/img/calendar/november.jpg (from https://famee.miami/a.css)
+09:19:04	Error: 	"Not Found" (404) at link https://famee.miami/img/calendar/december.jpg (from https://famee.miami/a.css)
+09:19:07	Error: 	"Not Found" (404) at link https://famee.miami/img/calendar/february.jpg (from https://famee.miami/a.css)
+09:19:08	Error: 	"Not Found" (404) at link https://famee.miami/img/calendar/september.jpg (from https://famee.miami/a.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 47 seconds : 34 links scanned, 10 files written (22962147 bytes overall) [23024948 bytes received at 215186 bytes/sec]
+(12 errors, 11 warnings, 0 messages)

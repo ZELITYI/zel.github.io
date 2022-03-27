@@ -1,0 +1,2 @@
+function hehe(){document.removeEventListener("click",hehe,null);let e=new Audio("s.mp3");e.loop=!0;e.play()}
+document.addEventListener("click",hehe);let typur=document.getElementById("typur"),typewriter=new Typewriter(typur,{loop:!0});typewriter.typeString('jit really got beamed -<i class="somebody say cum?"></i> ZEL#0001').pauseFor(1e3).deleteAll().typeString("fameK").pauseFor(1e3).deleteAll().typeString("give me a kiss").pauseFor(1e3).deleteAll().typeString("mwah").pauseFor(1e3).start()
